@@ -1,1 +1,1 @@
-# openai-app
+# OpenAI API Wrapper
